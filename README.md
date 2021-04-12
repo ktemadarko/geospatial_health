@@ -1,6 +1,7 @@
 # geospatial_health
 UPDATE:
-Excited to share my shiny app exploring the geospatial varaition of anaemia prevalence in Ghanaian children under 5 years old
+Excited to share my shiny app exploring the geospatial varaition of anaemia prevalence in Ghanaian children under 5 years old.
+
 Here is the link: https://aowusuda.shinyapps.io/Anaemia_prevalence_in_Ghanaian_children
 
 Check out the html file: Urbanicity_project_results_ only_Ama_Owusu_Darko. html for interim results.
